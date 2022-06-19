@@ -1,10 +1,4 @@
 /*
-Template Name: Bako
-Version: 1.0
-Author: PxlSolutions
-Author URI: http://themeforest.net/user/pxlsolutions
-Description: Personal Portfolio & Resume HTML Template
-
 [TABLE OF CONTENTS]
 
 01. Base
@@ -188,7 +182,7 @@ header.left {
   transition: all 0.3s ease-in-out;
 }
 header.left nav {
-  margin-top: 40px;
+  margin-top: 25px;
 }
 header.left .header-inner {
   width: 100%;
@@ -1691,5 +1685,21 @@ section.padding-60 {
     margin-top: 50px !important;
   }
 }
-
+.locationfloat {
+  float: right;
+}
+.experienceList {
+  margin-top: 10px;
+  font-size: 12px;
+}
+.experienceProjectList {
+  font-style: italic;
+  font-size: 12px;
+  list-style-type: none;
+}
+.experienceProjectList > li {
+  text-decoration: underline;
+  float: left;
+  padding-right: 5px;
+}
 /*# sourceMappingURL=style.css.map */
