@@ -1693,13 +1693,28 @@ section.padding-60 {
   font-size: 12px;
 }
 .experienceProjectList {
+  display: inline-block;
+}
+.experienceProjectList > li {
   font-style: italic;
   font-size: 12px;
   list-style-type: none;
-}
-.experienceProjectList > li {
   text-decoration: underline;
   float: left;
   padding-right: 5px;
+}
+.projectList a{
+  font-weight: 550;
+  margin: 5px 0;
+  display: inline-block;
+  transition: 0.3s;
+}
+.projectList a:hover {
+  color: rgb(0, 46, 196);
+  text-decoration: underline;
+}
+.projectDesc > li {
+  font-size: 12px;
+  list-style: disc;
 }
 /*# sourceMappingURL=style.css.map */
