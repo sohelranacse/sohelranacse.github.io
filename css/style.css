@@ -1708,13 +1708,12 @@ section.padding-60 {
   margin: 5px 0;
   display: inline-block;
   transition: 0.3s;
+  color: rgb(0, 46, 196);
 }
 .projectList a:hover {
-  color: rgb(0, 46, 196);
   text-decoration: underline;
 }
 .projectDesc > li {
   font-size: 12px;
   list-style: disc;
 }
-/*# sourceMappingURL=style.css.map */

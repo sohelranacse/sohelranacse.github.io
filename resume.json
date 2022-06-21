@@ -1,0 +1,89 @@
+{
+  "resume": {
+    "about": [
+      {
+        "name": "Sohel Rana",
+        "about": "good morning"
+      }
+    ],
+    "skills": {
+      "about": "I have total six (6) years of job experience in the field of web application development. I joined a company as an intern in 2016, and since then I have been working on live projects with great team. The first PHP, Javascript & MySql are starting languages.",
+      "skill": [
+        {
+          "language": "PHP, OOP",
+          "languagePercentage": 80
+        },
+        {
+          "language": "REACT, NEXT",
+          "languagePercentage": 75
+        },
+        {
+          "language": "MATERIAL UI",
+          "languagePercentage": 60
+        },
+        {
+          "language": "GIT",
+          "languagePercentage": 90
+        },
+        {
+          "language": "CODEIGNITER",
+          "languagePercentage": 85
+        },
+        {
+          "language": "NODE, EXPRESS",
+          "languagePercentage": 60
+        },
+        {
+          "language": "TAILWIND CSS",
+          "languagePercentage": 70
+        },
+        {
+          "language": "RESTFUL API",
+          "languagePercentage": 80
+        },
+        {
+          "language": "LARAVEL",
+          "languagePercentage": 55
+        },
+        {
+          "language": "JQUERY, AJAX",
+          "languagePercentage": 85
+        },
+        {
+          "language": "BOOTSTRAP",
+          "languagePercentage": 90
+        },
+        {
+          "language": "MYSQL",
+          "languagePercentage": 85
+        },
+        {
+          "language": "PYTHON, DJANGO",
+          "languagePercentage": 65
+        },
+        {
+          "language": "VUE",
+          "languagePercentage": 50
+        },
+        {
+          "language": "HTML5, CSS3",
+          "languagePercentage": 95
+        },
+        {
+          "language": "MONGODB",
+          "languagePercentage": 65
+        }
+      ]
+    },
+    "project": [
+      {
+        "title": "Isshue v2.0 - Multi Store eCommerce Shopping Cart Solution",
+        "url": "https://codecanyon.net/item/isshue-multi-store-ecommerce-shopping-cart-solution/21576648"
+      },
+      {
+        "title": "Modesy v1.8.2 - Marketplace & Classified Ads Script",
+        "url": "https://codecanyon.net/item/modesy-buy-sell-used-stuff/22714108"
+      }
+    ]
+  }
+}
