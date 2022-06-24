@@ -3,86 +3,245 @@
     "about": [
       {
         "name": "Sohel Rana",
-        "about": "good morning"
+        "about": "I'm a full stack developer."
       }
     ],
-    "skills": {
-      "about": "I have total six (6) years of job experience in the field of web application development. I joined a company as an intern in 2016, and since then I have been working on live projects with great team. The first PHP, Javascript & MySql are starting languages.",
-      "skill": [
-        {
-          "language": "PHP, OOP",
-          "languagePercentage": 80
-        },
-        {
-          "language": "REACT, NEXT",
-          "languagePercentage": 75
-        },
-        {
-          "language": "MATERIAL UI",
-          "languagePercentage": 60
-        },
-        {
-          "language": "GIT",
-          "languagePercentage": 90
-        },
-        {
-          "language": "CODEIGNITER",
-          "languagePercentage": 85
-        },
-        {
-          "language": "NODE, EXPRESS",
-          "languagePercentage": 60
-        },
-        {
-          "language": "TAILWIND CSS",
-          "languagePercentage": 70
-        },
-        {
-          "language": "RESTFUL API",
-          "languagePercentage": 80
-        },
-        {
-          "language": "LARAVEL",
-          "languagePercentage": 55
-        },
-        {
-          "language": "JQUERY, AJAX",
-          "languagePercentage": 85
-        },
-        {
-          "language": "BOOTSTRAP",
-          "languagePercentage": 90
-        },
-        {
-          "language": "MYSQL",
-          "languagePercentage": 85
-        },
-        {
-          "language": "PYTHON, DJANGO",
-          "languagePercentage": 65
-        },
-        {
-          "language": "VUE",
-          "languagePercentage": 50
-        },
-        {
-          "language": "HTML5, CSS3",
-          "languagePercentage": 95
-        },
-        {
-          "language": "MONGODB",
-          "languagePercentage": 65
-        }
-      ]
-    },
     "project": [
       {
-        "title": "Isshue v2.0 - Multi Store eCommerce Shopping Cart Solution",
-        "url": "https://codecanyon.net/item/isshue-multi-store-ecommerce-shopping-cart-solution/21576648"
+        "projectType": "MIS & ERP Application",
+        "projectList": [
+          {
+            "title": "SQ Consumers-Enterprise Resource Planning",
+            "url": "https://erp.sqgroupbd.com/",
+            "features": [
+              "Human Resource Managment (HRM)",
+              "Inventory Management",
+              "Letter of Credit (LC)",
+              "Production & Procurement",
+              "Sales & Distribution",
+              "Research & Development (R&D)",
+              "Telemagic",
+              "IT Helpdesk",
+              "Maintanance & Services"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          },
+          {
+            "title": "SalePro v3.3.8 - Inventory Management System with POS, HRM, Accounting",
+            "url": "https://codecanyon.net/item/lims-stock-manager-pro-with-pos/22256829",
+            "features": [
+              "Dashboard",
+              "Products",
+              "Sales",
+              "Quotation",
+              "Purchases",
+              "Transfers",
+              "Point of Sales",
+              "Reports",
+              "Settings",
+              "Mail Notificaiton System"
+            ],
+            "technology": [
+              "Laravel",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          }
+        ]
       },
       {
-        "title": "Modesy v1.8.2 - Marketplace & Classified Ads Script",
-        "url": "https://codecanyon.net/item/modesy-buy-sell-used-stuff/22714108"
+        "projectType": "Ecommerce Application",
+        "projectList": [
+          {
+            "title": "Isshue v2.0 - Multi Store eCommerce Shopping Cart Solution",
+            "url": "https://codecanyon.net/item/isshue-multi-store-ecommerce-shopping-cart-solution/21576648",
+            "features": [
+              "Main Website,Sales Module,Order Module",
+              "Customer Module",
+              "Supplier Module",
+              "Purchase Module",
+              "Store Mangement",
+              "Accounting Module",
+              "Report Module",
+              "Currency Module",
+              "Delivery Module",
+              "Tax Module",
+              "Product Image Gallery",
+              "Bank Module"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          },
+          {
+            "title": "Modesy v1.8.2 - Marketplace & Classified Ads Script",
+            "url": "https://codecanyon.net/item/modesy-buy-sell-used-stuff/22714108",
+            "features": [
+              "SEO-Friendly URL",
+              "Selling Physical Products",
+              "Selling Digital Products",
+              "Multi-Vendor System (With enable & disable option)",
+              "Cash on Delivery",
+              "Guest Checkout",
+              "Bulk Product Upload",
+              "Pending Products",
+              "Payment Settings",
+              "Filter & Sort Porducts",
+              "Messaging System (With notification)",
+              "Blog Section",
+              "Membership System",
+              "Roles & Permissions System",
+              "Password Reset",
+              "Add New Administrators",
+              "Manage Registered Users",
+              "Ban User Accounts",
+              "Maintenance Mode",
+              "SEO Tools",
+              "Visual Settings",
+              "Google reCAPTCHA Integrated",
+              "Rich Text Editor",
+              "Cookie Warning for GDPR",
+              "Social Media Links",
+              "Google Analytics",
+              "Advanced Settings Options",
+              "Form Settings",
+              "Easy Installation Using Installation Wizard",
+              "Detailed Documentation"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          }
+        ]
+      },
+      {
+        "projectType": "Learning Management System",
+        "projectList": [
+          {
+            "title": "Rocket LMS v1.5 - Learning Management & Academy Script",
+            "url": "https://codecanyon.net/item/rocket-lms-learning-management-academy-script/33120735",
+            "features": [
+              "Public & private classes",
+              "Quiz & certification",
+              "Youtube, Vimeo, and AWS integration",
+              "Google calendar integration",
+              "Online 1 to 1 meeting booking",
+              "Single & multiple instructors",
+              "Organizational education system",
+              "Meeting & webinar reminders",
+              "User permissions",
+              "Variable commissions",
+              "Built-in accounting system",
+              "Class support system",
+              "Noticeboard",
+              "Subscribe system",
+              "+15 worldwide payment gateways",
+              "Offline payment",
+              "SMS & social login",
+              "Multiple live class systems support",
+              "Multilanguage",
+              "Fully responsive",
+              "Fully customizable",
+              "Frontend RTL support",
+              "Professional plugins",
+              "Affiliate & referral system",
+              "Multi-language content"
+            ],
+            "technology": [
+              "Laravel",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          }
+        ]
+      },
+      {
+        "projectType": "Blog & Magazine",
+        "projectList": [
+          {
+            "title": "Infinite v4.0.2 - Blog & Magazine Script",
+            "url": "https://codecanyon.net/item/infinite-blog-magazine-script/19890709",
+            "features": [
+              "Theme Options",
+              "Unlimited Layout Colors",
+              "Cache System",
+              "Editable & Sortable Navigation",
+              "Responsive & Sortable Slider (Enable & Disable Option)",
+              "Responsive Ad Spaces for Any Kind of Ad Codes (Including Adsense)",
+              "Adding Unlimited Fully Editable Pages",
+              "Page Descripton, Show Page, Show Page Title, Show Breadcrumb, Show Right Column Options for Pages",
+              "Contact Page",
+              "Search in Site",
+              "Add, Delete, Update Unlimited Categories",
+              "Add, Delete, Update Unlimited Posts",
+              "Video Post Option",
+              "Gif Support",
+              "Emoji Reactions",
+              "Save as Draft Option for Posts",
+              "Reading List Page (Add & Remove from List)",
+              "Lazy Image Loading",
+              "Advanced Post Options",
+              "Downloadable Files for Posts",
+              "Dynamic Tag System",
+              "Ajax Comment System",
+              "Manage Comments",
+              "Comment Approval System",
+              "Pageview Counts (Enable & Disable Option)",
+              "Rich Text Editor (Image and Video Can Be Added)",
+              "Voting Poll (Add, Delete Unlimited Poll)",
+              "Gallery Page (Enable & Disable Option)",
+              "Gallery Albums",
+              "Gallery Categories",
+              "Add, Delete Unlimited Photos",
+              "Newsletter",
+              "Different Email Libraries (Swift Mailer and PHP Mailer)",
+              "Social Login (Facebook & Google)",
+              "Social Sharing",
+              "Widgets (Popular Posts, Our Picks, Categories, Random Posts Slider, Tags)",
+              "Sitemap.xml Generator",
+              "RSS Aggregator System (Auto Update with Cron Job) (Doesn’t support full-text RSS)",
+              "RSS (With different channels)",
+              "Maintenance Mode",
+              "Font Settings (New Google Fonts Can be Added Easily)",
+              "Membership System with 3 Roles (Admin, Author, User)",
+              "Enable & Disable Membership System",
+              "Manage Registered Users",
+              "User Profile Page",
+              "Secure Authentication",
+              "Follow & Unfollow Users",
+              "Google Analytics",
+              "Cookie Notice for GDPR",
+              "Password Reset",
+              "Advanced Settings Options",
+              "Change Logo, Favicon, Site Title, Site Description, etc. from Admin Panel"
+            ],
+            "technology": [
+              "Laravel",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          }
+        ]
       }
     ]
   }
