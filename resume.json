@@ -8,7 +8,7 @@
     ],
     "project": [
       {
-        "projectType": "MIS & ERP Application",
+        "projectType": "MIS, ERP & Business Application",
         "projectList": [
           {
             "title": "SQ Consumers-Enterprise Resource Planning",
@@ -33,7 +33,7 @@
             ]
           },
           {
-            "title": "SalePro v3.3.8 - Inventory Management System with POS, HRM, Accounting",
+            "title": "Inventory Management System with POS, HRM, Accounting",
             "url": "https://codecanyon.net/item/lims-stock-manager-pro-with-pos/22256829",
             "features": [
               "Dashboard",
@@ -54,6 +54,50 @@
               "Ajax",
               "Bootstrap"
             ]
+          },
+          {
+            "title": "Simple Invoice Manager - Invoicing Made Easy",
+            "url": "https://codecanyon.net/item/simple-invoice-manager-invoicing-made-easy/4259689",
+            "features": [
+              "Dashboard",
+              "Products",
+              "Sales",
+              "Quotations",
+              "People",
+              "Setting",
+              "Report"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          },
+          {
+            "title": "Neo Billing - Accounting, Invoicing And CRM Software",
+            "url": "https://codecanyon.net/item/neo-billing-accounting-invoicing-and-crm-software/20896547",
+            "features": [
+              "Invoicing",
+              "Quotations",
+              "Purchase Orders",
+              "Inventory Management",
+              "Customer Management",
+              "Supplier Management",
+              "Accounts",
+              "Transactions",
+              "Data & Reports",
+              "Ticket Based Support System",
+              "Project Manager"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
           }
         ]
       },
@@ -61,7 +105,7 @@
         "projectType": "Ecommerce Application",
         "projectList": [
           {
-            "title": "Isshue v2.0 - Multi Store eCommerce Shopping Cart Solution",
+            "title": "Multi Store eCommerce Shopping Cart Solution",
             "url": "https://codecanyon.net/item/isshue-multi-store-ecommerce-shopping-cart-solution/21576648",
             "features": [
               "Main Website,Sales Module,Order Module",
@@ -86,7 +130,7 @@
             ]
           },
           {
-            "title": "Modesy v1.8.2 - Marketplace & Classified Ads Script",
+            "title": "Marketplace & Classified Ads Script",
             "url": "https://codecanyon.net/item/modesy-buy-sell-used-stuff/22714108",
             "features": [
               "SEO-Friendly URL",
@@ -127,6 +171,105 @@
               "Ajax",
               "Bootstrap"
             ]
+          },
+          {
+            "title": "Best Restaurant Management Software with Restaurant Website",
+            "url": "https://codecanyon.net/item/bhojon-best-restaurant-management-software-with-restaurant-website/23525997",
+            "features": [
+              "Retautrant Website",
+              "Restaurant POS",
+              "10+ Payment Gateway",
+              "Counter Dashboard",
+              "Production Management",
+              "Purchase Management",
+              "Multi Kitchen and KDS",
+              "HRM system",
+              "Account Management",
+              "Restaurant Table Reservation",
+              "Online Order Managerment",
+              "Real Time Reports"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          },
+          {
+            "title": "Multi Resturant Food Ordering, Restaurant Management With Saas And QR Menu Maker",
+            "url": "https://codecanyon.net/item/khana-multi-resturant-food-ordering-restaurant-management-with-saas/28041734",
+            "features": [
+              "real-time order notification",
+              "live orders",
+              "coupon",
+              "subscription plan",
+              "shop closing time opening time",
+              "city-based shop",
+              "city-based rider",
+              "google map",
+              "table booking",
+              "seller badge",
+              "earning reports",
+              "order reports",
+              "payout history",
+              "media management ",
+              "pickup order",
+              "home delivery order",
+              "customer location",
+              "review and ratings",
+              "email verification",
+              "payout history with report",
+              "seller registration page",
+              "live orders with bell notification",
+              "rider online/offline status",
+              "Commission based order delivery",
+              "order history",
+              "earning report",
+              "payout history with report",
+              "pickup or delivery live map with rider location like Uber eats",
+              "Rider registration page",
+              "email verification ",
+              "Live rider activity with google map",
+              "Restaurant review and rettings per order",
+              "Social login",
+              "Customer can select delivery location from the map",
+              "Delivery charge based on per kilometer from restaurant",
+              "All type of users are can make order ",
+              "custom page",
+              "admin can handle every uploaded file",
+              "product list",
+              "seller menu manage",
+              "seller category",
+              "resturent request view approval suspend cancel everything can handle",
+              "all resturents list",
+              "only admin can remove review rettings",
+              "resturent request view approval suspend cancel everything can handle",
+              "customer list",
+              "customer activity",
+              "payout request",
+              "payout history",
+              "admin can handle very orders",
+              "subscription plan management(saas)",
+              "admin can assign plan to restaurant",
+              "admin can update restaurant existing plan ",
+              "Manage location",
+              "Manage Seller badge",
+              "Manage Featured Seller",
+              "Earning reports",
+              "Drag and drop Menu Management",
+              "admin can create New Language from GUI mode ",
+              "Frontend theme editor like WordPress",
+              "Upcoming Announcement system"
+            ],
+            "technology": [
+              "Laravel",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
           }
         ]
       },
@@ -134,7 +277,7 @@
         "projectType": "Learning Management System",
         "projectList": [
           {
-            "title": "Rocket LMS v1.5 - Learning Management & Academy Script",
+            "title": "Learning Management & Academy Script",
             "url": "https://codecanyon.net/item/rocket-lms-learning-management-academy-script/33120735",
             "features": [
               "Public & private classes",
@@ -170,6 +313,50 @@
               "Ajax",
               "Bootstrap"
             ]
+          },
+          {
+            "title": "Ekattor School Management System",
+            "url": "https://codecanyon.net/item/ekattor-school-management-system-pro/6087521",
+            "features": [
+              "Seven user Role Management",
+              "Secure Login",
+              "Superadmin/Admin User Panel",
+              "Student/Parent User Panel",
+              "Teacher User Panel",
+              "Accountant/Librarian User Panel",
+              "Information Student List",
+              "Intuitive Student Admission Form",
+              "Student Attendance",
+              "Weekly Class Routine",
+              "Academic Syllabus",
+              "Class & Multi Section Manager",
+              "Managing Classroom",
+              "Department wise Teacher",
+              "Event Calender",
+              "Examination and Marks",
+              "Student Remarks",
+              "Grading Sytem",
+              "Student Promotion",
+              "Finance and Fees",
+              "Student Payment Report School Expenses",
+              "Generating Invoice",
+              "Printing Invoice",
+              "Books Library",
+              "Borrowing Books",
+              "Book Isssue Roirt",
+              "Academic Session",
+              "Noticeboard Manager",
+              "Payment Gateway",
+              "School Events",
+              "Teacher Portfolio"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
           }
         ]
       },
@@ -177,17 +364,12 @@
         "projectType": "Blog & Magazine",
         "projectList": [
           {
-            "title": "Infinite v4.0.2 - Blog & Magazine Script",
+            "title": "Blog & Magazine Script",
             "url": "https://codecanyon.net/item/infinite-blog-magazine-script/19890709",
             "features": [
               "Theme Options",
               "Unlimited Layout Colors",
               "Cache System",
-              "Editable & Sortable Navigation",
-              "Responsive & Sortable Slider (Enable & Disable Option)",
-              "Responsive Ad Spaces for Any Kind of Ad Codes (Including Adsense)",
-              "Adding Unlimited Fully Editable Pages",
-              "Page Descripton, Show Page, Show Page Title, Show Breadcrumb, Show Right Column Options for Pages",
               "Contact Page",
               "Search in Site",
               "Add, Delete, Update Unlimited Categories",
@@ -196,7 +378,6 @@
               "Gif Support",
               "Emoji Reactions",
               "Save as Draft Option for Posts",
-              "Reading List Page (Add & Remove from List)",
               "Lazy Image Loading",
               "Advanced Post Options",
               "Downloadable Files for Posts",
@@ -204,9 +385,6 @@
               "Ajax Comment System",
               "Manage Comments",
               "Comment Approval System",
-              "Pageview Counts (Enable & Disable Option)",
-              "Rich Text Editor (Image and Video Can Be Added)",
-              "Voting Poll (Add, Delete Unlimited Poll)",
               "Gallery Page (Enable & Disable Option)",
               "Gallery Albums",
               "Gallery Categories",
@@ -215,10 +393,7 @@
               "Different Email Libraries (Swift Mailer and PHP Mailer)",
               "Social Login (Facebook & Google)",
               "Social Sharing",
-              "Widgets (Popular Posts, Our Picks, Categories, Random Posts Slider, Tags)",
               "Sitemap.xml Generator",
-              "RSS Aggregator System (Auto Update with Cron Job) (Doesn’t support full-text RSS)",
-              "RSS (With different channels)",
               "Maintenance Mode",
               "Font Settings (New Google Fonts Can be Added Easily)",
               "Membership System with 3 Roles (Admin, Author, User)",
@@ -235,6 +410,74 @@
             ],
             "technology": [
               "Laravel",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          },
+          {
+            "title": "Multi Branch School Management System",
+            "url": "https://codecanyon.net/item/ramom-multi-branch-school-management-system/25182324",
+            "features": [
+              "Unique Multi School Facility",
+              "Full Responsive Design",
+              "Highly Secured",
+              "Multi Language",
+              "Powerful Office Accounting",
+              "Advanced Fees Colleciton",
+              "Advanced Human Resources",
+              "SMS & Email Alert",
+              "3 Types of Gateway for Payment",
+              "Powerfull Library Module",
+              "Advanced Hostel Module",
+              "Advanced Transport Module",
+              "Role Function Rules-(Teacher,Librarian,Accountant,Parent,Student)"
+            ],
+            "technology": [
+              "CodeIgniter",
+              "Javascript",
+              "jQuery",
+              "Ajax",
+              "Bootstrap"
+            ]
+          }
+        ]
+      },
+      {
+        "projectType": "Management Applicaiotn",
+        "projectList": [
+          {
+            "title": "Doctor Care - Diagnostic Center / Doctors Chamber Management System",
+            "url": "https://codecanyon.net/item/doctor-care-diagnostic-center-doctors-chamber-management-system/14943237",
+            "features": [
+              "Prescription Management",
+              "Appointment Management",
+              "Live Video consultation between doctor and patient",
+              "Human Resource Database",
+              "Patient’s detail history",
+              "Hospital Accounting",
+              "Financial Reporting",
+              "Invoicing",
+              "Pharmacy Management",
+              "Frontend Website",
+              "Schedule Management for Doctors",
+              "Payment Gateways",
+              "Email Module",
+              "Notice Module",
+              "Roles (Admin, Doctor, Patient, Nurse, Accountant, Pharmacist, Laboratorist, Receptionist)",
+              "SMS Management",
+              "Dynamic Language",
+              "Patient Medical History",
+              "Patient Medical Files Archive",
+              "Prescription",
+              "Patient Payment History",
+              "User Activity Report",
+              "Doctor’s Commission calculator for Diagnosis Reference",
+              "Telemedicine By Video Conferencing"
+            ],
+            "technology": [
+              "CodeIgniter",
               "Javascript",
               "jQuery",
               "Ajax",
